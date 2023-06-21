@@ -1,0 +1,162 @@
+[[GRQt6]]
+arch = "aarch64"
+git-tree-sha1 = "14e618c7e84d1fd2d070737ed22442c87ebe296d"
+os = "macos"
+
+    [[GRQt6.download]]
+    sha256 = "708b5ec54468437d843b18afa02d83ebec917c90440bcb8fcac7b8655a76cd00"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.aarch64-apple-darwin.tar.gz"
+[[GRQt6]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1b0558a088bea227d740a739b01cd8b59fcdbc12"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt6.download]]
+    sha256 = "4db0bffadb965b84efc1524495e5a4081114268427772ed99c5d4ae954a4685c"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.aarch64-linux-gnu-cxx03.tar.gz"
+[[GRQt6]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5b82a3f194c253feb99437b1e9cb0b4b1ba5403c"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt6.download]]
+    sha256 = "0101778ac77dc675f6d8847a6e64edee25ae460bcb7c8742e5979b97efd59c5e"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.aarch64-linux-gnu-cxx11.tar.gz"
+[[GRQt6]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dd273cf08081db8a7700f41756e97bd7c8125fc4"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt6.download]]
+    sha256 = "b8f48c9b938cb67d4b542ecbca8ac8f885f907200cea5ce66c3d3afaf2e29b08"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[GRQt6]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5ca78e008703c8df4a856f210a8f6c03da3d4fa5"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt6.download]]
+    sha256 = "d3b205bcdbe41005799c8aadcf06626ed46aa03718173634a8ce739841343707"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[GRQt6]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0a374756e6122f83865616ea29ad7b8b79bd188f"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt6.download]]
+    sha256 = "6781c28240f7d9bb976a6ad161bc5b0ca691ffa08da772f6c418bf48d1ed2ea4"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.i686-linux-gnu-cxx03.tar.gz"
+[[GRQt6]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8671ace8c7c8052ace6728512f59aa1464eace7e"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt6.download]]
+    sha256 = "f3addf9992b7e94d79c46d3f2a107680a217cea69dde575bab9317bbfff4528e"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.i686-linux-gnu-cxx11.tar.gz"
+[[GRQt6]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "21782d420e741434dbe6e489fa8a6861b8c1254b"
+os = "windows"
+
+    [[GRQt6.download]]
+    sha256 = "0ccd6a93af0c561bbdb2a739f67060dd0db82fb93e3dfc2437140dd55ca95ae9"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.i686-w64-mingw32-cxx03.tar.gz"
+[[GRQt6]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e8081405bd12489668cb7182616a727f718218de"
+os = "windows"
+
+    [[GRQt6.download]]
+    sha256 = "d77db2bf952993bad33a1e7bafea7d900dd0edb9c4dfc1d89eddb70a2355bde5"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.i686-w64-mingw32-cxx11.tar.gz"
+[[GRQt6]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c3efd6cb690ce9138e9ff145bea58053ae3dbae9"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt6.download]]
+    sha256 = "15c03f12af5987a2f6509fef95202a9976805556ef0def7d67e44ec928cb4e2f"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[GRQt6]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6141fb85a1ce2fd7c710542f8ecd70e9e7600359"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt6.download]]
+    sha256 = "8df305ca98b5d2d51f690be49d34bd8801445b9f97d80110f49e6e034456d0d7"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[GRQt6]]
+arch = "x86_64"
+git-tree-sha1 = "b05c3b79d1090019483573c82bb2aebe95952653"
+os = "macos"
+
+    [[GRQt6.download]]
+    sha256 = "ec72735324869b96a67b9f8046d320261644ba49275d27210e24942139c3cefa"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.x86_64-apple-darwin.tar.gz"
+[[GRQt6]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ffe117d795e4840331e35b5f08a24efd2521cf6d"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt6.download]]
+    sha256 = "269434e4f5ac3f9b2efeb2da9f3d65e746f4264fffe62a2f45193099eac7d96e"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.x86_64-linux-gnu-cxx03.tar.gz"
+[[GRQt6]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7677fb5124adcafd0cf72f9965998243b7b5e6b6"
+libc = "glibc"
+os = "linux"
+
+    [[GRQt6.download]]
+    sha256 = "dcc274d93f1a2eda2709c838127976274b76d2006e66371b49ed8e28f0924b38"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.x86_64-linux-gnu-cxx11.tar.gz"
+[[GRQt6]]
+arch = "x86_64"
+git-tree-sha1 = "bce6eb9a0304ec82e26246809d853980b80551b7"
+os = "freebsd"
+
+    [[GRQt6.download]]
+    sha256 = "cb6b4f696a16383f485424ab09c684660c1f1bb3b276e8ad460ac44ff6c62262"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.x86_64-unknown-freebsd.tar.gz"
+[[GRQt6]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "afa0bb86d4b6a40fff0bc65d491413774eebbde0"
+os = "windows"
+
+    [[GRQt6.download]]
+    sha256 = "de0d98796ab969b40f6a75b9dcc0a8c1f61b48a4fb6a5cffd6bcb1fcf0c0832b"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.x86_64-w64-mingw32-cxx03.tar.gz"
+[[GRQt6]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "375fa9b83479cc7d753505dfcfc3fde0d6fa171d"
+os = "windows"
+
+    [[GRQt6.download]]
+    sha256 = "3b2589073d20f1614bc34afdfe939547dbdda174957e7af921319cf3633631b0"
+    url = "https://github.com/JuliaBinaryWrappers/GRQt6_jll.jl/releases/download/GRQt6-v0.72.7+0/GRQt6.v0.72.7.x86_64-w64-mingw32-cxx11.tar.gz"
